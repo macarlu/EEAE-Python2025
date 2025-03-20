@@ -1,7 +1,8 @@
 # EEAE-Python2025
 Repositorio de código de los ejercicios de python de la E2T 2025
 
-> [!NOTE] **Guía rápida Git y GitHub**
+> [!NOTE]
+> **Guía rápida Git y GitHub**
 > Esta breve guía está sacada de [AQUÍ](https://github.com/mouredev/roadmap-retos-programacion/tree/main?tab=readme-ov-file#gu%C3%ADa-r%C3%A1pida-git-y-github).
 >
 > Sigue estos pasos para realizar las entregas de los ejercicios:
